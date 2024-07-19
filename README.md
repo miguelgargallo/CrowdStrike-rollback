@@ -1,7 +1,7 @@
 # CrowdStrike-rollback
 
 <p align="center">
-  <img src=".assets/icon.png" alt="icon" width="250"/>
+  <img src=".assets/banner.png" alt="icon" width="250"/>
 </p>
 
 <p align="center">
