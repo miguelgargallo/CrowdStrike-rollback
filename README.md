@@ -6,12 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/miguelgargallo/CrowdStrike-rollback">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/miguelgargallo/CrowdStrike-rollback?style=social">
-  </a>
-  <a href="https://github.com/miguelgargallo/CrowdStrike-rollback">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/miguelgargallo/CrowdStrike-rollback?style=social">
-  </a>
-  <a href="https://github.com/miguelgargallo/CrowdStrike-rollback">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/miguelgargallo/CrowdStrike-rollback">
   </a>
   <a href="https://github.com/miguelgargallo/CrowdStrike-rollback">
