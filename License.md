@@ -8,9 +8,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Conditions
 
- 1 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
- 2 Any work using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the Software must explicitly acknowledge "Miguel Gargallo" as the original author of this work.
- 3 The file in which this license is included (LICENSE.md) must remain unmodified. Any modifications to this file will be considered a violation of this license.
+ - 1 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-  2 Any work using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the Software must explicitly acknowledge "Miguel Gargallo" as the original author of this work.
+-  3 The file in which this license is included (LICENSE.md) must remain unmodified. Any modifications to this file will be considered a violation of this license.
 
 ## Disclaimer
 
