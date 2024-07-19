@@ -1,5 +1,7 @@
+# CrowdStrike-rollback
+
 <p align="center">
-  <img src=".assets/icon.png" alt="icon" width="100"/>
+  <img src=".assets/icon.png" alt="icon" width="250"/>
 </p>
 
 <p align="center">
@@ -9,9 +11,14 @@
   <a href="https://github.com/miguelgargallo/CrowdStrike-rollback">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/miguelgargallo/CrowdStrike-rollback?style=social">
   </a>
+  <a href="https://github.com/miguelgargallo/CrowdStrike-rollback">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/miguelgargallo/CrowdStrike-rollback">
+  </a>
+  <a href="https://github.com/miguelgargallo/CrowdStrike-rollback">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/miguelgargallo/CrowdStrike-rollback">
+  </a>
 </p>
 
-# CrowdStrike-rollback
 ## Description
 CrowdStrike-rollback.ps1 is a PowerShell script designed to automate the removal of a specific file related to CrowdStrike that may be causing issues on your Windows system. This script should be executed in Safe Mode or the Windows Recovery Environment.
 
